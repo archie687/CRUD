@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "name": "ABHISHEK  KUSHWAHA ",
+      "contact": "9519919646",
+      "emailid": "abhskushwaha@gmail.com",
+      "dropdown": "1",
+      "datepicker": "2023-03-19",
+      "gender": "male",
+      "city": "kushinagar",
+      "id": 2
+    },
+    {
+      "name": "Muskan dasani",
+      "contact": "1234567890",
+      "emailid": "muskan@gmail.com",
+      "dropdown": "2",
+      "datepicker": "2023-03-19",
+      "gender": "female",
+      "city": "kushinagar",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "name": "ABHISHEK  KUSHWAHA",
+      "contact": "9519919646",
+      "email": "abhskushwaha@gmail.com",
+      "password": "Admin@123",
+      "id": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "ABHISHEK  KUSHWAHA",
+      "contact": "9519919646",
+      "email": "abhskushwaha@gmail.com",
+      "password": "Admin@123",
+      "id": 1
+    }
+  ],
+  "dropdown": [
+    {
+      "id": 1,
+      "text": "option 1",
+      "value": "1"
+    },
+    {
+      "id": 2,
+      "text": "option 1",
+      "value": "2"
+    },
+    {
+      "id": 3,
+      "text": "option 1",
+      "value": "3"
+    }
+  ]
+}
